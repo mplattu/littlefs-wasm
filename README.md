@@ -228,6 +228,12 @@ node scripts/build-wasm.mjs build
 node scripts/build-wasm.mjs clean
 ```
 
+### Build with Docker
+
+```bash
+./build-with-docker.sh
+```
+
 ## Configuration for ESP Devices
 
 Common block sizes and counts for ESP devices:
